@@ -1,6 +1,5 @@
 Sales Dashboard Overview: Regional Performance Analysis
-
-Excited to share our latest sales dashboard created using Excel, showcasing region-wise performance across multiple cities. Here's a quick snapshot:
+Excited to share our latest sales dashboard created using Excel, showcasing region-wise performance across multiple cities.
 
 Top Performers: Kahkasha Parveen and Mukesh Nagar lead the way with 351 total sales each.
 
